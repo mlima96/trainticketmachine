@@ -39,3 +39,6 @@ GET - http://localhost:8080/api/stations?searchTerm=Santa
     ]
 }
 ```
+## Example of unit testing 
+
+[Click here](https://github.com/mlima96/trainticketmachine/blob/1b4cd8cd36eb1a93f336e717900680cdf485719f/application/src/test/java/com/matheus/trainticketmachine/application/station/StationServiceTest.java)
